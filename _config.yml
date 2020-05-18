@@ -106,7 +106,10 @@ friends: [
         title: "aoeivu",
         href: "http://aoeivu.github.io"
     },{
-        title: "Hux",
-        href: "https://huangxuan.me/"
+      title: "Hux",
+      href: "https://huangxuan.me/"
+    },{
+      title: "Randy",
+      href: "https://lutaonan.com/"
     }
 ]
