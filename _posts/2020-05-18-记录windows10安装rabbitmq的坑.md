@@ -15,10 +15,10 @@ Rabbitmq的安装过程有点挫折，差点劝退，遂记录帮助后人排忧
 安装一直下一步即可。  
 
 ### 安装erlang
-1. 从 [erlang官网](https://www.erlang.org/downloads) 下载安装包。安装路径任意，一直下一步。
-2. 配置环境变量
-    a. 新建变量名ERLANG_HOME，变量值为erlang安装路径(我的默认C:\Program Files\erl-23.0)
-    b. path变量新增%ERLANG_HOME%\bin
+1. 从 [erlang官网](https://www.erlang.org/downloads) 下载安装包。安装路径任意，一直下一步。  
+2. 配置环境变量  
+    a. 新建变量名ERLANG_HOME，变量值为erlang安装路径(我的默认C:\Program Files\erl-23.0)  
+    b. path变量新增%ERLANG_HOME%\bin  
     ![图片](/img/2020/05/18/env_path.gif?raw=true)  
 
 
