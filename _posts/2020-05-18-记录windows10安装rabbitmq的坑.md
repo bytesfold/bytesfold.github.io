@@ -27,3 +27,4 @@ Rabbitmq的安装过程有点挫折，差点劝退，遂记录帮助后人排忧
 2. 安装过程的路径千万不能包含空格！默认为C:\program files\rabbitmq，需要更改
 3. 打开dos窗口进入，C:\Files\RabbitMQ\rabbitmq_server-3.8.3\sbin目录，输入rabbitmq-plugins enable rabbitmq_management
 4. 启动rabbitmq服务，rabbitmq-server.bat start
+5. 浏览器输入 http://localhost:15672/#/，用户名guest，密码guest即可登陆。
